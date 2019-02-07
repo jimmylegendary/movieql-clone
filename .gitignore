@@ -1,4 +1,4 @@
 # : comments
 
 # ignore node_mudules
-nodemodules/*
+node_modules/*
